@@ -88,6 +88,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Duet](https://www.duetdisplay.com/) - Ex-Apple Engineers turn your iPad into an extra display.
 - [Launch center pro](https://contrast.co/launch-center-pro/) - Create easily accessible shortcuts to open apps, activate URL schemes and more.
 - [MindNode](https://mindnode.com/) - Visualise your thoughts and ideas with mind maps.
+- [minulo](https://apps.apple.com/app/id6809352229) - Hide Instagram Reels, YouTube Shorts and TikTok For You while DMs and friends' posts keep working.
 - [Notion](https://www.notion.so) - The all-in-one workspace - for notes, tasks, wikis, and databases.
 - [PDF Expert](https://pdfexpert.com/) - Read and edit PDF files.
 - [Scanbot](https://itunes.apple.com/us/app/scanbot-scanner-app-fax/id834854351?mt=8) - Scan documents and QR codes.
